@@ -20,7 +20,7 @@ Check here: [![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Gi
   <!-- ---------------------------------------------------------------- -->
   
 ## 💻 Skills 
-Check here: [![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Github&logoColor=white)](https://github.com/mr-meetawa)
+Check here: [![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Github&logoColor=white)](https://github.com/rahulmeetawa)
 
   <!-- ---------------------------------------------------------------- -->
 
