@@ -24,6 +24,11 @@ Check here: [![Github](https://img.shields.io/badge/Github-%237289DA.svg?logo=Gi
 
   <!-- ---------------------------------------------------------------- -->
 
+## 📘 Study Hub – Engineering | GATE | Programming
+
+* Welcome to Study Hub, your one-stop repository for all things related to Engineering, GATE preparation, and Programming.
+* This repo is designed to help students and learners access organized, high-quality, and easy-to-understand materials all in one place.
+
 ---
 
 <a href="#">
